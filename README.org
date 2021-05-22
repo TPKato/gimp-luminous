@@ -1,0 +1,7 @@
+* luminous.scm
+
+A Script-Fu for GIMP to generate a logo etc. with luminous effect like this:
+
+[[./sample.png]]
+
+Visit [[https://www.chinpui.org/hack/softwares/gimp-luminous]] for more details.
